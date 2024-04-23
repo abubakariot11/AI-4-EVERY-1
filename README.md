@@ -6,5 +6,9 @@ Try this course.
 
 Streamlit AI apps
 
+you can install all libraries for use this command
+
+Pip install -r requiqrements.txt
+
 
 
